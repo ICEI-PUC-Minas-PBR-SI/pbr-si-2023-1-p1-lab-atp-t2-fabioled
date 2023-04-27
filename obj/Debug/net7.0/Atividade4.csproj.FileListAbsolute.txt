@@ -1,0 +1,15 @@
+/home/fabio/workspace/ATP/Atividade4/bin/Debug/net7.0/Atividade4
+/home/fabio/workspace/ATP/Atividade4/bin/Debug/net7.0/Atividade4.deps.json
+/home/fabio/workspace/ATP/Atividade4/bin/Debug/net7.0/Atividade4.runtimeconfig.json
+/home/fabio/workspace/ATP/Atividade4/bin/Debug/net7.0/Atividade4.dll
+/home/fabio/workspace/ATP/Atividade4/bin/Debug/net7.0/Atividade4.pdb
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/Atividade4.csproj.AssemblyReference.cache
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/Atividade4.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/Atividade4.AssemblyInfoInputs.cache
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/Atividade4.AssemblyInfo.cs
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/Atividade4.csproj.CoreCompileInputs.cache
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/Atividade4.dll
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/refint/Atividade4.dll
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/Atividade4.pdb
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/Atividade4.genruntimeconfig.cache
+/home/fabio/workspace/ATP/Atividade4/obj/Debug/net7.0/ref/Atividade4.dll
