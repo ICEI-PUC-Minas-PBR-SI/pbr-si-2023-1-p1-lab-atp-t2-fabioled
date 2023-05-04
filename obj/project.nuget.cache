@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "Odr8tLhwbhfvWmc6tHSOLzaMD32w2IEnof+BhQe0QzAbxqvjl6kGEtOY/Nm0Gw7bXlqaLqxZx4YJeqSVhwnJ7w==",
-  "success": true,
-  "projectFilePath": "/home/fabio/atp/pbr-si-2023-1-p1-lab-atp-t2-fabioled/pbr-si-2023-1-p1-lab-atp-t2-fabioled.csproj",
-=======
   "dgSpecHash": "sNUyiaIcgGDtSSIYmazAbQ3VxsGm/5hUZg7/ppsabieFOstvJq31Rk2JoMS9BUSEHsaINnG5m6Hyh5QNtGl8FA==",
   "success": true,
   "projectFilePath": "/home/fabio/workspace/ATP/Atividade4/Atividade4.csproj",
->>>>>>> 6a5ddc6 (Fazendo questão 2 da atividade 4)
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache /home/fabio/workspace/ATP/Atividade4/obj/project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

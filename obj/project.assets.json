@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "/home/fabio/atp/pbr-si-2023-1-p1-lab-atp-t2-fabioled/pbr-si-2023-1-p1-lab-atp-t2-fabioled.csproj",
-      "projectName": "pbr-si-2023-1-p1-lab-atp-t2-fabioled",
-      "projectPath": "/home/fabio/atp/pbr-si-2023-1-p1-lab-atp-t2-fabioled/pbr-si-2023-1-p1-lab-atp-t2-fabioled.csproj",
-      "packagesPath": "/home/fabio/.nuget/packages/",
-      "outputPath": "/home/fabio/atp/pbr-si-2023-1-p1-lab-atp-t2-fabioled/obj/",
-=======
       "projectUniqueName": "/home/fabio/workspace/ATP/Atividade4/Atividade4.csproj",
       "projectName": "Atividade4",
       "projectPath": "/home/fabio/workspace/ATP/Atividade4/Atividade4.csproj",
       "packagesPath": "/home/fabio/.nuget/packages/",
       "outputPath": "/home/fabio/workspace/ATP/Atividade4/obj/",
->>>>>>> 6a5ddc6 (Fazendo questão 2 da atividade 4)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fabio/.nuget/NuGet/NuGet.Config"
@@ -70,5 +62,13 @@
         "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache /home/fabio/workspace/ATP/Atividade4/obj/project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
