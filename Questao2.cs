@@ -1,5 +1,6 @@
 public class Questao2{
     public static void Executar(){
-        Console.WriteLine("Resolução da Questão 1");
+        Console.WriteLine("Resolução da Questão 2 em sala");
+        
     }
 }
